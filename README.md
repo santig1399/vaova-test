@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 
 ## Deploy URL
-[https://www.vaova-test.vercel.app](https://www.vaova-test.vercel.app)
+[https://vaova-test.vercel.app](https://vaova-test.vercel.app)
 
 
 ### Folder structure
