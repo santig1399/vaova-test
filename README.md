@@ -2,11 +2,13 @@
 
 ## Available Scripts
 Runs the app in the development mode.
-### `npm start`
-### `npm run build`
-### `npm run eject`
-
+`npm start`
 Open [http://localhost:3000](http://localhost:3000) 
+
+`npm run build`
+
+`npm run eject`
+
 
 
 ## Deploy URL
