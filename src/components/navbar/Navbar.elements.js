@@ -73,7 +73,7 @@ export const NavMenu = styled.ul`
     left: ${({ isOpen }) => (isOpen ? 0 : '-100%')};
     opacity: 1;
     transition: all 0.5s ease;
-    background-color: #00dec5;
+    background-color: #00a887;
   }
 `;
 
