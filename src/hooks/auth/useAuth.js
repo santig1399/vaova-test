@@ -26,7 +26,6 @@ const useAuth = () => {
       } else {
         setUser({});
         setIsAuthenticated(false);
-        setLocation('/auth/login');
       }
     });
   }, [setUser, setIsAuthenticated, setLocation]);
